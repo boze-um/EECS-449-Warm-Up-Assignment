@@ -1,0 +1,5 @@
+# Ignore the Python virtual environment
+env/
+
+# Ignore the Jac generated files
+__jac_gen__/
