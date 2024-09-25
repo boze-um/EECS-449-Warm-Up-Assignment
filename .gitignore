@@ -7,4 +7,6 @@ __jac_gen__/
 .DS_Store
 
 chroma/
-docs/
+# docs/
+mongodb_data/
+client.dot
